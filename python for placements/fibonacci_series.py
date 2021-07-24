@@ -10,7 +10,7 @@ for i in range(0,n):
     a=b
     b=c
 #o/p
-/*
+"""
 Enter a input: 
 
 5
@@ -18,4 +18,4 @@ Enter a input:
 The fibonacci series is 
 
 0 1 1 2 3 
-*/
+"""
