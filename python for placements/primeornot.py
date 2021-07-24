@@ -12,11 +12,11 @@ if(flag==1):
     print('{0} is a prime number'.format(n))
 else:
     print('{0} is not a prime number'.format(n))
-//o/p
-/*
+#o/p
+"""
 Enter a integer: 
 
 25
 
 25 is not a prime number
-*/
+"""
